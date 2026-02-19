@@ -1,0 +1,35 @@
+# ============================================================
+# Kurulum Komutu (önce eski PyTorch'u kaldırın):
+#
+#   pip uninstall torch torchvision torchaudio -y
+#   pip install -r requirements.txt
+#
+# Python 3.10+ gereklidir (mevcut: 3.13 ✅)
+# ============================================================
+
+# PyTorch — CUDA 12.8 ile derlendi
+# CUDA 13.1 için GERÇEK uyumlu kurulum budur:
+# NVIDIA sürücüsü CUDA 13.1 destekliyorsa → CUDA 12.8 derlenmiş
+# PyTorch de bu sürücüde çalışır (geriye dönük uyumluluk).
+# Resmi cu131 wheel henüz yayınlanmadı (PyTorch 2.7.0 itibarıyla).
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.7.0
+torchvision==0.22.0
+torchaudio==2.7.0
+
+# Veri işleme
+pandas>=3.0.1
+numpy>=2.2.0
+scikit-learn>=1.8.0
+
+# Görselleştirme
+matplotlib>=3.10.0
+
+# Kristal formül & element özellikleri (predict_crystal.py)
+mendeleev>=0.14.0
+
+# Web arayüzü (isteğe bağlı)
+streamlit>=1.44.0
+
+# Yardımcı
+tqdm>=4.67.0

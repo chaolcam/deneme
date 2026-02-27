@@ -1,0 +1,196 @@
+formula_pretty,number,band_gap,cbm,source,note
+Al2CoO4,156,2.2747,8.0729,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-674336; score=2.643
+Ba(FeO2)2,182,0.967,,auto_ml_correction_v1,auto ekleme; mp=mp-19285; raw_bg=0.0000; pred_bg=0.9670; conf=0.777; gate_relaxed=False
+Ba2ErCuNi2O7,47,0.8245,,auto_ml_correction_v1,auto ekleme; mp=mp-1214712; raw_bg=0.0000; pred_bg=0.8245; conf=0.786; gate_relaxed=True
+Ba2Fe2O5,14,1.4173,3.8258,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-654312; score=2.655
+Ba2FeO4,14,1.9954,3.2775,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-542120; score=2.680
+Ba2YCu3(PbO4)2,17,0.7077,,auto_ml_correction_v1,auto ekleme; mp=mp-1200772; raw_bg=0.0000; pred_bg=0.7077; conf=0.771; gate_relaxed=True
+Ba8Mn8O21,6,0.8045,3.5798,mp_api_filtered_advanced,api_filter method=R2SCAN; run_type=r2SCAN; is_hubbard=False; mp=mp-694888; score=3.020
+BaV13O18,148,1.1981,,auto_ml_correction_v1,auto ekleme; mp=mp-510249; raw_bg=0.0000; pred_bg=1.1981; conf=0.758; gate_relaxed=False
+Ca3V3(CuO6)2,230,0.9421,,auto_ml_correction_v1,auto ekleme; mp=mp-1214197; raw_bg=0.0000; pred_bg=0.9421; conf=0.791; gate_relaxed=False
+CaCo4(CuO4)3,204,0.7465,,auto_ml_correction_v1,auto ekleme; mp=mp-1043073; raw_bg=0.0000; pred_bg=0.7465; conf=0.851; gate_relaxed=True
+CaFe4(CuO4)3,204,0.7543,,auto_ml_correction_v1,auto ekleme; mp=mp-1043124; raw_bg=0.0000; pred_bg=0.7543; conf=0.868; gate_relaxed=True
+CaTi4(CuO4)3,204,0.6075,,auto_ml_correction_v1,auto ekleme; mp=mp-22592; raw_bg=0.0000; pred_bg=0.6075; conf=0.835; gate_relaxed=True
+Co(RhO2)2,227,1.3546,,auto_ml_correction_v1,auto ekleme; mp=mp-546936; raw_bg=0.0000; pred_bg=1.3546; conf=0.776; gate_relaxed=True
+Co2GeO4,74,0.7827,,auto_ml_correction_v1,auto ekleme; mp=mp-548805; raw_bg=0.0000; pred_bg=0.7827; conf=0.765; gate_relaxed=False
+Co2GeO4,227,0.9175,,auto_ml_correction_v1,auto ekleme; mp=mp-18758; raw_bg=0.0000; pred_bg=0.9175; conf=0.752; gate_relaxed=False
+Co2NiO4,74,0.6626,,auto_ml_correction_v1,auto ekleme; mp=mp-38683; raw_bg=0.0000; pred_bg=0.6626; conf=0.794; gate_relaxed=True
+Co2SnO4,74,0.6094,,auto_ml_correction_v1,auto ekleme; mp=mp-36028; raw_bg=0.0000; pred_bg=0.6094; conf=0.774; gate_relaxed=False
+Co3O4,166,1.7,,experimental_literature,Spinel Co3O4 icin literaturde bildirilen tipik band araligi (yaklasik).
+Co3O4,227,0.8243,,auto_ml_correction_v1,auto ekleme; mp=mp-18748; raw_bg=0.0000; pred_bg=0.8243; conf=0.798; gate_relaxed=True
+Co5O8,216,1.2372,,auto_ml_correction_v1,auto ekleme; mp=mp-761471; raw_bg=0.0000; pred_bg=1.2372; conf=0.781; gate_relaxed=True
+Co5RuO8,166,0.7676,,auto_ml_correction_v1,auto ekleme; mp=mp-35690; raw_bg=0.0000; pred_bg=0.7676; conf=0.770; gate_relaxed=True
+Co5SbO8,166,1.0437,,auto_ml_correction_v1,auto ekleme; mp=mp-33332; raw_bg=0.0000; pred_bg=1.0437; conf=0.795; gate_relaxed=True
+Co7(SbO6)2,12,0.9591,,auto_ml_correction_v1,auto ekleme; mp=mp-1226238; raw_bg=0.0000; pred_bg=0.9591; conf=0.781; gate_relaxed=True
+Co8As3O16,12,0.6211,,auto_ml_correction_v1,auto ekleme; mp=mp-699375; raw_bg=0.0000; pred_bg=0.6211; conf=0.769; gate_relaxed=False
+CoAuO2,194,0.7335,,auto_ml_correction_v1,auto ekleme; mp=mp-997158; raw_bg=0.0000; pred_bg=0.7335; conf=0.804; gate_relaxed=True
+CoNiO3,148,1.3102,,auto_ml_correction_v1,auto ekleme; mp=mp-1178424; raw_bg=0.0000; pred_bg=1.3102; conf=0.776; gate_relaxed=True
+CoO,225,0.7616,,auto_ml_correction_v1,auto ekleme; mp=mp-19079; raw_bg=0.0000; pred_bg=0.7616; conf=0.850; gate_relaxed=True
+CoO2,5,0.9644,,auto_ml_correction_v1,auto ekleme; mp=mp-1178540; raw_bg=0.0000; pred_bg=0.9644; conf=0.847; gate_relaxed=True
+CoPtO2,166,0.7413,,auto_ml_correction_v1,auto ekleme; mp=mp-19210; raw_bg=0.0000; pred_bg=0.7413; conf=0.806; gate_relaxed=True
+CoSnH12(OF)6,148,2.2879,,auto_ml_correction_v1,auto ekleme; mp=mp-24003; raw_bg=0.0000; pred_bg=2.2879; conf=0.785; gate_relaxed=False
+Cr2O3,167,3.1,,experimental_literature,Cr2O3 icin literaturde bildirilen tipik optik band araligi (yaklasik).
+Cr6O11,2,1.3913,,auto_ml_correction_v1,auto ekleme; mp=mp-1213798; raw_bg=0.0000; pred_bg=1.3913; conf=0.801; gate_relaxed=False
+CrAuO2,194,1.6069,,auto_ml_correction_v1,auto ekleme; mp=mp-997159; raw_bg=0.0000; pred_bg=1.6069; conf=0.767; gate_relaxed=False
+CrH10SO9,2,2.8694,,auto_ml_correction_v1,auto ekleme; mp=mp-1202852; raw_bg=0.0000; pred_bg=2.8694; conf=0.762; gate_relaxed=False
+CrO,2,1.0811,,auto_ml_correction_v1,auto ekleme; mp=mp-1302566; raw_bg=0.0000; pred_bg=1.0811; conf=0.792; gate_relaxed=False
+CrO,66,0.6262,,auto_ml_correction_v1,auto ekleme; mp=mp-1283577; raw_bg=0.0000; pred_bg=0.6262; conf=0.793; gate_relaxed=False
+CrO2,58,1.3004,,auto_ml_correction_v1,auto ekleme; mp=mp-21395; raw_bg=0.0000; pred_bg=1.3004; conf=0.761; gate_relaxed=False
+CrO2,113,0.9874,,auto_ml_correction_v1,auto ekleme; mp=mp-1281333; raw_bg=0.0147; pred_bg=0.9874; conf=0.765; gate_relaxed=False
+CrO2,136,1.4862,,auto_ml_correction_v1,auto ekleme; mp=mp-19177; raw_bg=0.0000; pred_bg=1.4862; conf=0.767; gate_relaxed=False
+CrPdO2,166,0.7218,,auto_ml_correction_v1,auto ekleme; mp=mp-1063607; raw_bg=0.0000; pred_bg=0.7218; conf=0.767; gate_relaxed=True
+CrPtO2,166,1.5652,,auto_ml_correction_v1,auto ekleme; mp=mp-755584; raw_bg=0.0000; pred_bg=1.5652; conf=0.760; gate_relaxed=True
+CrSiH12(OF)6,148,3.9202,,auto_ml_correction_v1,auto ekleme; mp=mp-39540; raw_bg=0.0000; pred_bg=3.9202; conf=0.759; gate_relaxed=False
+CsVH12(C2O7)2,12,2.8756,,auto_ml_correction_v1,auto ekleme; mp=mp-698264; raw_bg=0.0359; pred_bg=2.8756; conf=0.774; gate_relaxed=False
+Cu3(SbO3)4,204,0.6357,,auto_ml_correction_v1,auto ekleme; mp=mp-1042691; raw_bg=0.0000; pred_bg=0.6357; conf=0.823; gate_relaxed=True
+CuPO4,14,0.3277,1.7958,mp_api_filtered_advanced,api_filter method=R2SCAN; run_type=r2SCAN; is_hubbard=False; mp=mp-504265; score=3.020
+DyFe4(CuO4)3,204,0.9358,,auto_ml_correction_v1,auto ekleme; mp=mp-1189224; raw_bg=0.0000; pred_bg=0.9358; conf=0.849; gate_relaxed=True
+Er2Mn2O7,227,1.1678,3.7054,mp_api_filtered_advanced,api_filter method=R2SCAN; run_type=r2SCAN; is_hubbard=False; mp=mp-19256; score=3.020
+EuCu(MoO4)2,61,0.6155,,auto_ml_correction_v1,auto ekleme; mp=mp-560455; raw_bg=0.0000; pred_bg=0.6155; conf=0.799; gate_relaxed=True
+Fe(SbO3)2,136,0.5366,5.4203,mp_api_filtered_advanced,api_filter method=R2SCAN; run_type=r2SCAN; is_hubbard=False; mp=mp-505009; score=3.020
+Fe2O3,167,2.15,,experimental_literature,Hematit Fe2O3 icin tipik optik band araligi (oda sicakligi civari).
+Fe3BO5,10,1.6275,,auto_ml_correction_v1,auto ekleme; mp=mp-504752; raw_bg=0.0205; pred_bg=1.6275; conf=0.790; gate_relaxed=False
+Fe3O4,12,1.3633,,auto_ml_correction_v1,auto ekleme; mp=mp-715811; raw_bg=0.0320; pred_bg=1.3633; conf=0.822; gate_relaxed=False
+Fe3O4,74,1.2031,,auto_ml_correction_v1,auto ekleme; mp=mp-31770; raw_bg=0.0000; pred_bg=1.2031; conf=0.836; gate_relaxed=False
+Fe3O4,227,1.2587,,auto_ml_correction_v1,auto ekleme; mp=mp-19306; raw_bg=0.0000; pred_bg=1.2587; conf=0.830; gate_relaxed=False
+Fe5SnO8,166,1.0133,,auto_ml_correction_v1,auto ekleme; mp=mp-690495; raw_bg=0.0000; pred_bg=1.0133; conf=0.803; gate_relaxed=False
+FeHO2,62,1.2851,0.1449,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-625275; score=2.508
+FeO,12,1.0337,,auto_ml_correction_v1,auto ekleme; mp=mp-1178232; raw_bg=0.0000; pred_bg=1.0337; conf=0.815; gate_relaxed=False
+FeO,139,1.498,,auto_ml_correction_v1,auto ekleme; mp=mp-715262; raw_bg=0.0000; pred_bg=1.4980; conf=0.817; gate_relaxed=False
+FeOF,14,0.6729,,auto_ml_correction_v1,auto ekleme; mp=mp-759543; raw_bg=0.0000; pred_bg=0.6729; conf=0.869; gate_relaxed=False
+FeOF,84,1.5198,,auto_ml_correction_v1,auto ekleme; mp=mp-1178215; raw_bg=0.0000; pred_bg=1.5198; conf=0.889; gate_relaxed=False
+FeOF,92,1.9482,,auto_ml_correction_v1,auto ekleme; mp=mp-675006; raw_bg=0.0000; pred_bg=1.9482; conf=0.889; gate_relaxed=False
+Ge,227,0.67,,experimental_literature,Diamond-Ge icin oda sicakliginda tipik dolayli band araligi.
+HgTe,216,0.0,,experimental_literature,HgTe yarimetal/ters bant yapisi nedeniyle efektif band araligi 0 eV civari kabul edildi.
+HoCoO3,62,0.162,1.6791,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-1188609; score=2.280
+HoFe4(CuO4)3,204,0.9804,,auto_ml_correction_v1,auto ekleme; mp=mp-1106004; raw_bg=0.0000; pred_bg=0.9804; conf=0.849; gate_relaxed=True
+K(CoO2)2,59,0.2643,2.3055,mp_api_filtered_advanced,api_filter method=R2SCAN; run_type=r2SCAN; is_hubbard=False; mp=mp-752629; score=3.020
+K3FeO4,62,0.2433,0.6144,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-28696; score=2.680
+K3Mn4O8,1,0.4875,2.7449,mp_api_filtered_advanced,api_filter method=R2SCAN; run_type=r2SCAN; is_hubbard=False; mp=mp-1003764; score=3.020
+KMn2O4,2,0.4357,2.2457,mp_api_filtered_advanced,api_filter method=R2SCAN; run_type=r2SCAN; is_hubbard=False; mp=mp-1003314; score=3.020
+KMn2O4,11,0.3196,2.1864,mp_api_filtered_advanced,api_filter method=R2SCAN; run_type=r2SCAN; is_hubbard=False; mp=mp-763541; score=3.020
+La2Cu2O5,84,1.3636,,auto_ml_correction_v1,auto ekleme; mp=mp-1147637; raw_bg=0.0000; pred_bg=1.3636; conf=0.829; gate_relaxed=True
+La3Co2CuO9,165,1.1161,,auto_ml_correction_v1,auto ekleme; mp=mp-1223344; raw_bg=0.0450; pred_bg=1.1161; conf=0.842; gate_relaxed=True
+La3Cu4(P2O)2,139,0.6189,,auto_ml_correction_v1,auto ekleme; mp=mp-6309; raw_bg=0.0000; pred_bg=0.6189; conf=0.776; gate_relaxed=True
+La6Cu6O17,149,0.7816,,auto_ml_correction_v1,auto ekleme; mp=mp-766360; raw_bg=0.0000; pred_bg=0.7816; conf=0.835; gate_relaxed=True
+LaCuO3,167,0.6994,,auto_ml_correction_v1,auto ekleme; mp=mp-3474; raw_bg=0.0000; pred_bg=0.6994; conf=0.797; gate_relaxed=True
+LaFe4(CuO4)3,204,0.8268,,auto_ml_correction_v1,auto ekleme; mp=mp-1105546; raw_bg=0.0000; pred_bg=0.8268; conf=0.869; gate_relaxed=True
+LaMnSbO,129,0.7544,,auto_ml_correction_v1,auto ekleme; mp=mp-18745; raw_bg=0.0000; pred_bg=0.7544; conf=0.763; gate_relaxed=True
+Li(CoO2)2,10,0.7914,,auto_ml_correction_v1,auto ekleme; mp=mp-552024; raw_bg=0.0000; pred_bg=0.7914; conf=0.764; gate_relaxed=True
+Li(CoO2)2,59,1.1388,,auto_ml_correction_v1,auto ekleme; mp=mp-755386; raw_bg=0.0000; pred_bg=1.1388; conf=0.764; gate_relaxed=True
+Li(CoO2)3,12,1.0587,,auto_ml_correction_v1,auto ekleme; mp=mp-752635; raw_bg=0.0000; pred_bg=1.0587; conf=0.789; gate_relaxed=False
+Li2Fe3CoO8,96,0.9655,,auto_ml_correction_v1,auto ekleme; mp=mp-762142; raw_bg=0.0000; pred_bg=0.9655; conf=0.761; gate_relaxed=False
+Li2Fe3CoO8,166,0.7718,,auto_ml_correction_v1,auto ekleme; mp=mp-756157; raw_bg=0.0000; pred_bg=0.7718; conf=0.763; gate_relaxed=False
+Li2FeCo3O8,5,1.1093,,auto_ml_correction_v1,auto ekleme; mp=mp-1177976; raw_bg=0.0000; pred_bg=1.1093; conf=0.757; gate_relaxed=False
+Li2TiV3O8,2,1.5181,,auto_ml_correction_v1,auto ekleme; mp=mp-1313908; raw_bg=0.0000; pred_bg=1.5181; conf=0.762; gate_relaxed=False
+Li2TiV3O8,13,1.3477,,auto_ml_correction_v1,auto ekleme; mp=mp-1302186; raw_bg=0.0000; pred_bg=1.3477; conf=0.755; gate_relaxed=False
+Li2TiV3O8,166,1.3958,,auto_ml_correction_v1,auto ekleme; mp=mp-755975; raw_bg=0.0064; pred_bg=1.3958; conf=0.754; gate_relaxed=False
+Li2V3CuO8,19,0.8608,,auto_ml_correction_v1,auto ekleme; mp=mp-773650; raw_bg=0.0000; pred_bg=0.8608; conf=0.823; gate_relaxed=False
+Li2V5O12,60,1.43,,auto_ml_correction_v1,auto ekleme; mp=mp-776130; raw_bg=0.0000; pred_bg=1.4300; conf=0.756; gate_relaxed=False
+Li2V6O15,12,1.1332,,auto_ml_correction_v1,auto ekleme; mp=mp-27751; raw_bg=0.0000; pred_bg=1.1332; conf=0.780; gate_relaxed=False
+Li2VCo3O8,166,0.747,,auto_ml_correction_v1,auto ekleme; mp=mp-754294; raw_bg=0.0000; pred_bg=0.7470; conf=0.759; gate_relaxed=False
+Li3Cr(FeO2)4,12,1.0271,,auto_ml_correction_v1,auto ekleme; mp=mp-754129; raw_bg=0.0000; pred_bg=1.0271; conf=0.751; gate_relaxed=False
+Li3CrH12(CO3)6,2,2.9113,,auto_ml_correction_v1,auto ekleme; mp=mp-774905; raw_bg=0.0000; pred_bg=2.9113; conf=0.785; gate_relaxed=False
+Li3Fe4CoO8,12,1.6429,,auto_ml_correction_v1,auto ekleme; mp=mp-756592; raw_bg=0.0000; pred_bg=1.6429; conf=0.760; gate_relaxed=False
+Li5Fe11O16,1,1.4581,,auto_ml_correction_v1,auto ekleme; mp=mp-762692; raw_bg=0.0000; pred_bg=1.4581; conf=0.793; gate_relaxed=False
+LiV2O4,227,1.1587,,auto_ml_correction_v1,auto ekleme; mp=mp-19394; raw_bg=0.0000; pred_bg=1.1587; conf=0.756; gate_relaxed=False
+LiV3O4,12,0.9913,,auto_ml_correction_v1,auto ekleme; mp=mp-1274433; raw_bg=0.0166; pred_bg=0.9913; conf=0.778; gate_relaxed=False
+LiV3O4,139,0.7065,,auto_ml_correction_v1,auto ekleme; mp=mp-1222538; raw_bg=0.0000; pred_bg=0.7065; conf=0.780; gate_relaxed=False
+LiVO2,13,1.5454,,auto_ml_correction_v1,auto ekleme; mp=mp-1276026; raw_bg=0.0165; pred_bg=1.5454; conf=0.769; gate_relaxed=False
+LiVO2,141,1.2339,,auto_ml_correction_v1,auto ekleme; mp=mp-1283531; raw_bg=0.0000; pred_bg=1.2339; conf=0.758; gate_relaxed=False
+LiVO2,166,1.6143,,auto_ml_correction_v1,auto ekleme; mp=mp-19340; raw_bg=0.0000; pred_bg=1.6143; conf=0.756; gate_relaxed=False
+LiVO2,186,1.5266,,auto_ml_correction_v1,auto ekleme; mp=mp-1176519; raw_bg=0.0000; pred_bg=1.5266; conf=0.767; gate_relaxed=False
+Mn(CoO2)2,1,1.1973,,auto_ml_correction_v1,auto ekleme; mp=mp-767807; raw_bg=0.0000; pred_bg=1.1973; conf=0.763; gate_relaxed=False
+Mn2CoO4,1,0.8674,,auto_ml_correction_v1,auto ekleme; mp=mp-766445; raw_bg=0.0000; pred_bg=0.8674; conf=0.787; gate_relaxed=False
+Mn2CoO6,12,0.9226,,auto_ml_correction_v1,auto ekleme; mp=mp-761501; raw_bg=0.0000; pred_bg=0.9226; conf=0.755; gate_relaxed=False
+Mn2CrO4,2,0.9996,,auto_ml_correction_v1,auto ekleme; mp=mp-765581; raw_bg=0.0000; pred_bg=0.9996; conf=0.783; gate_relaxed=False
+Mn2FeO4,141,1.1234,,auto_ml_correction_v1,auto ekleme; mp=mp-754642; raw_bg=0.0000; pred_bg=1.1234; conf=0.805; gate_relaxed=False
+Mn2O3,61,0.0721,3.5047,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-1172875; score=2.480
+Mn2O3,206,0.7627,,auto_ml_correction_v1,auto ekleme; mp=mp-510604; raw_bg=0.0000; pred_bg=0.7627; conf=0.772; gate_relaxed=False
+Mn2PO5,62,0.8776,2.9526,mp_api_filtered_advanced,api_filter method=R2SCAN; run_type=r2SCAN; is_hubbard=False; mp=mp-770538; score=3.016
+Mn2V3NiO8,12,1.6621,,auto_ml_correction_v1,auto ekleme; mp=mp-1280544; raw_bg=0.0000; pred_bg=1.6621; conf=0.775; gate_relaxed=False
+Mn2V3NiO8,166,1.599,,auto_ml_correction_v1,auto ekleme; mp=mp-1221946; raw_bg=0.0000; pred_bg=1.5990; conf=0.775; gate_relaxed=False
+Mn2VO4,1,1.3692,,auto_ml_correction_v1,auto ekleme; mp=mp-531591; raw_bg=0.0000; pred_bg=1.3692; conf=0.817; gate_relaxed=False
+Mn2VO4,8,0.6635,,auto_ml_correction_v1,auto ekleme; mp=mp-531351; raw_bg=0.0025; pred_bg=0.6635; conf=0.835; gate_relaxed=False
+Mn3CoO8,166,0.8306,,auto_ml_correction_v1,auto ekleme; mp=mp-771970; raw_bg=0.0000; pred_bg=0.8306; conf=0.762; gate_relaxed=False
+Mn3Cr3O8,166,0.661,,auto_ml_correction_v1,auto ekleme; mp=mp-1221796; raw_bg=0.0000; pred_bg=0.6610; conf=0.779; gate_relaxed=True
+Mn4Cu3BiO12,204,0.7411,,auto_ml_correction_v1,auto ekleme; mp=mp-1210616; raw_bg=0.0000; pred_bg=0.7411; conf=0.803; gate_relaxed=True
+Mn5V4O12,15,1.1633,,auto_ml_correction_v1,auto ekleme; mp=mp-1221657; raw_bg=0.0199; pred_bg=1.1633; conf=0.828; gate_relaxed=False
+Mn6Cr9O20,166,0.618,,auto_ml_correction_v1,auto ekleme; mp=mp-757545; raw_bg=0.0000; pred_bg=0.6180; conf=0.766; gate_relaxed=True
+Mn7V5O16,58,1.6974,,auto_ml_correction_v1,auto ekleme; mp=mp-531842; raw_bg=0.0000; pred_bg=1.6974; conf=0.827; gate_relaxed=False
+MnAgO2,12,0.6102,,auto_ml_correction_v1,auto ekleme; mp=mp-996995; raw_bg=0.0000; pred_bg=0.6102; conf=0.763; gate_relaxed=False
+MnAgO2,166,0.6348,,auto_ml_correction_v1,auto ekleme; mp=mp-997160; raw_bg=0.0000; pred_bg=0.6348; conf=0.755; gate_relaxed=True
+MnAgO2,194,1.3299,,auto_ml_correction_v1,auto ekleme; mp=mp-997162; raw_bg=0.0000; pred_bg=1.3299; conf=0.757; gate_relaxed=False
+MnAlP2(HO)15,2,4.2133,,auto_ml_correction_v1,auto ekleme; mp=mp-758995; raw_bg=0.0051; pred_bg=4.2133; conf=0.762; gate_relaxed=False
+MnCo3O8,166,0.9619,,auto_ml_correction_v1,auto ekleme; mp=mp-773602; raw_bg=0.0000; pred_bg=0.9619; conf=0.769; gate_relaxed=False
+MnCo5O12,12,0.9157,,auto_ml_correction_v1,auto ekleme; mp=mp-755620; raw_bg=0.0000; pred_bg=0.9157; conf=0.776; gate_relaxed=True
+MnO2,62,1.0217,,auto_ml_correction_v1,auto ekleme; mp=mp-19326; raw_bg=0.0000; pred_bg=1.0217; conf=0.771; gate_relaxed=False
+MnO2,136,1.0745,,auto_ml_correction_v1,auto ekleme; mp=mp-510408; raw_bg=0.0000; pred_bg=1.0745; conf=0.775; gate_relaxed=False
+MoO2,58,1.6304,,auto_ml_correction_v1,auto ekleme; mp=mp-715550; raw_bg=0.0000; pred_bg=1.6304; conf=0.778; gate_relaxed=False
+MoO2,136,0.8203,,auto_ml_correction_v1,auto ekleme; mp=mp-510536; raw_bg=0.0000; pred_bg=0.8203; conf=0.780; gate_relaxed=False
+Na(CoO2)3,12,0.8506,1.5688,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-1276209; score=2.651
+Na2Co2O3,14,0.9716,,auto_ml_correction_v1,auto ekleme; mp=mp-774332; raw_bg=0.0000; pred_bg=0.9716; conf=0.753; gate_relaxed=False
+Na2CuO2,36,0.8688,,auto_ml_correction_v1,auto ekleme; mp=mp-754549; raw_bg=0.0000; pred_bg=0.8688; conf=0.853; gate_relaxed=True
+NaMnO2,12,1.223,4.0287,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-18957; score=2.680
+NaTi4(CuO4)3,204,0.6206,,auto_ml_correction_v1,auto ekleme; mp=mp-1210001; raw_bg=0.0000; pred_bg=0.6206; conf=0.781; gate_relaxed=True
+NaV2O4,6,1.0148,,auto_ml_correction_v1,auto ekleme; mp=mp-1303308; raw_bg=0.0000; pred_bg=1.0148; conf=0.796; gate_relaxed=False
+NaV2O4,62,1.4853,,auto_ml_correction_v1,auto ekleme; mp=mp-642750; raw_bg=0.0000; pred_bg=1.4853; conf=0.790; gate_relaxed=False
+NaV6O11,36,1.5427,,auto_ml_correction_v1,auto ekleme; mp=mp-557578; raw_bg=0.0000; pred_bg=1.5427; conf=0.802; gate_relaxed=False
+Nb2CuO6,14,0.642,,auto_ml_correction_v1,auto ekleme; mp=mp-1204490; raw_bg=0.0000; pred_bg=0.6420; conf=0.788; gate_relaxed=True
+Nb2CuO6,60,0.8447,,auto_ml_correction_v1,auto ekleme; mp=mp-4643; raw_bg=0.0000; pred_bg=0.8447; conf=0.773; gate_relaxed=True
+NiAgO2,12,0.6278,,auto_ml_correction_v1,auto ekleme; mp=mp-1277880; raw_bg=0.0000; pred_bg=0.6278; conf=0.814; gate_relaxed=True
+NiAgO2,194,1.2003,,auto_ml_correction_v1,auto ekleme; mp=mp-19284; raw_bg=0.0000; pred_bg=1.2003; conf=0.820; gate_relaxed=True
+NiO,225,3.7,,experimental_literature,NiO icin oda sicakliginda tipik optik band araligi (yaklasik 3.6-4.0 eV).
+PrFe4(CuO4)3,204,0.9285,,auto_ml_correction_v1,auto ekleme; mp=mp-1105690; raw_bg=0.0000; pred_bg=0.9285; conf=0.872; gate_relaxed=True
+RhO2,136,0.7565,,auto_ml_correction_v1,auto ekleme; mp=mp-725; raw_bg=0.0000; pred_bg=0.7565; conf=0.754; gate_relaxed=True
+SmFe4(CuO4)3,204,0.9524,,auto_ml_correction_v1,auto ekleme; mp=mp-1106008; raw_bg=0.0000; pred_bg=0.9524; conf=0.864; gate_relaxed=True
+SmMnO3,62,0.2744,4.051,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-22203; score=2.680
+Sr2FeCuSO3,129,0.6484,,auto_ml_correction_v1,auto ekleme; mp=mp-505312; raw_bg=0.0000; pred_bg=0.6484; conf=0.841; gate_relaxed=True
+Sr2Mn2Cu(AsO)2,119,0.6439,,auto_ml_correction_v1,auto ekleme; mp=mp-1218747; raw_bg=0.0000; pred_bg=0.6439; conf=0.836; gate_relaxed=True
+Sr2YCu3(PbO4)2,17,0.7348,,auto_ml_correction_v1,auto ekleme; mp=mp-643629; raw_bg=0.0000; pred_bg=0.7348; conf=0.811; gate_relaxed=True
+Sr4Mn2Cu3(SO)4,72,0.6452,,auto_ml_correction_v1,auto ekleme; mp=mp-555856; raw_bg=0.0000; pred_bg=0.6452; conf=0.810; gate_relaxed=True
+SrFe4(CuO4)3,204,0.8926,,auto_ml_correction_v1,auto ekleme; mp=mp-1105138; raw_bg=0.0000; pred_bg=0.8926; conf=0.855; gate_relaxed=True
+TaFeO4,109,1.8691,4.3839,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-861559; score=2.646
+TbFe4(CuO4)3,204,0.9269,,auto_ml_correction_v1,auto ekleme; mp=mp-1105642; raw_bg=0.0000; pred_bg=0.9269; conf=0.857; gate_relaxed=True
+TbMnO3,62,0.4016,4.2279,mp_api_filtered_advanced,api_filter method=R2SCAN; run_type=r2SCAN; is_hubbard=False; mp=mp-22055; score=3.020
+ThMn4(CuO4)3,204,0.6086,,auto_ml_correction_v1,auto ekleme; mp=mp-648519; raw_bg=0.0000; pred_bg=0.6086; conf=0.795; gate_relaxed=True
+Ti(FeO2)2,74,0.9996,,auto_ml_correction_v1,auto ekleme; mp=mp-33684; raw_bg=0.0000; pred_bg=0.9996; conf=0.776; gate_relaxed=False
+TiFe5O8,166,0.9963,,auto_ml_correction_v1,auto ekleme; mp=mp-1216930; raw_bg=0.0000; pred_bg=0.9963; conf=0.814; gate_relaxed=False
+TiV15O24,1,1.131,,auto_ml_correction_v1,auto ekleme; mp=mp-760220; raw_bg=0.0000; pred_bg=1.1310; conf=0.787; gate_relaxed=False
+U3CuO10,2,0.8481,,auto_ml_correction_v1,auto ekleme; mp=mp-615420; raw_bg=0.0000; pred_bg=0.8481; conf=0.761; gate_relaxed=False
+V2Co3O8,64,0.7477,,auto_ml_correction_v1,auto ekleme; mp=mp-540833; raw_bg=0.0000; pred_bg=0.7477; conf=0.782; gate_relaxed=False
+V2CoO4,227,1.3772,,auto_ml_correction_v1,auto ekleme; mp=mp-758452; raw_bg=0.0000; pred_bg=1.3772; conf=0.786; gate_relaxed=False
+V2Cu2O7,15,0.2381,1.3954,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-757247; score=2.661
+V2FeO4,227,1.5735,,auto_ml_correction_v1,auto ekleme; mp=mp-20167; raw_bg=0.0000; pred_bg=1.5735; conf=0.778; gate_relaxed=False
+V2O3,167,1.0792,,auto_ml_correction_v1,auto ekleme; mp=mp-18937; raw_bg=0.0000; pred_bg=1.0792; conf=0.824; gate_relaxed=False
+V2O3,206,1.4027,,auto_ml_correction_v1,auto ekleme; mp=mp-21579; raw_bg=0.0000; pred_bg=1.4027; conf=0.825; gate_relaxed=False
+V2O3F,38,1.5337,,auto_ml_correction_v1,auto ekleme; mp=mp-777055; raw_bg=0.0474; pred_bg=1.5337; conf=0.816; gate_relaxed=False
+V3(O2F)2,4,1.4071,,auto_ml_correction_v1,auto ekleme; mp=mp-756089; raw_bg=0.0000; pred_bg=1.4071; conf=0.801; gate_relaxed=False
+V3(O2F)2,5,1.3024,,auto_ml_correction_v1,auto ekleme; mp=mp-756269; raw_bg=0.0000; pred_bg=1.3024; conf=0.828; gate_relaxed=False
+V3(O2F)2,14,1.5835,,auto_ml_correction_v1,auto ekleme; mp=mp-764046; raw_bg=0.0000; pred_bg=1.5835; conf=0.786; gate_relaxed=False
+V3O5,15,1.4268,,auto_ml_correction_v1,auto ekleme; mp=mp-30987; raw_bg=0.0000; pred_bg=1.4268; conf=0.802; gate_relaxed=False
+V3O5F,6,1.1292,,auto_ml_correction_v1,auto ekleme; mp=mp-763908; raw_bg=0.0000; pred_bg=1.1292; conf=0.812; gate_relaxed=False
+V3O5F,12,1.4787,,auto_ml_correction_v1,auto ekleme; mp=mp-763338; raw_bg=0.0000; pred_bg=1.4787; conf=0.813; gate_relaxed=False
+V3O5F,38,1.4911,,auto_ml_correction_v1,auto ekleme; mp=mp-1101184; raw_bg=0.0000; pred_bg=1.4911; conf=0.813; gate_relaxed=False
+V3O7,139,0.9859,,auto_ml_correction_v1,auto ekleme; mp=mp-756395; raw_bg=0.0000; pred_bg=0.9859; conf=0.802; gate_relaxed=False
+V6O13,7,1.4368,,auto_ml_correction_v1,auto ekleme; mp=mp-1196958; raw_bg=0.0332; pred_bg=1.4368; conf=0.801; gate_relaxed=False
+V6O13,11,0.74,,auto_ml_correction_v1,auto ekleme; mp=mp-870306; raw_bg=0.0000; pred_bg=0.7400; conf=0.802; gate_relaxed=False
+V6O7F5,5,0.9101,,auto_ml_correction_v1,auto ekleme; mp=mp-763201; raw_bg=0.0000; pred_bg=0.9101; conf=0.828; gate_relaxed=False
+V6O7F5,6,0.6637,,auto_ml_correction_v1,auto ekleme; mp=mp-776983; raw_bg=0.0000; pred_bg=0.6637; conf=0.814; gate_relaxed=False
+V8Ni2O15,15,1.2473,,auto_ml_correction_v1,auto ekleme; mp=mp-36484; raw_bg=0.0000; pred_bg=1.2473; conf=0.755; gate_relaxed=False
+V9NiO15,2,1.1001,,auto_ml_correction_v1,auto ekleme; mp=mp-677070; raw_bg=0.0000; pred_bg=1.1001; conf=0.789; gate_relaxed=False
+VCdO3,62,0.4299,3.8783,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-22649; score=2.610
+VO2,14,1.4581,,auto_ml_correction_v1,auto ekleme; mp=mp-1102963; raw_bg=0.0000; pred_bg=1.4581; conf=0.798; gate_relaxed=False
+VO2,58,1.738,,auto_ml_correction_v1,auto ekleme; mp=mp-547074; raw_bg=0.0000; pred_bg=1.7380; conf=0.820; gate_relaxed=False
+VO2,136,1.4696,,auto_ml_correction_v1,auto ekleme; mp=mp-19094; raw_bg=0.0000; pred_bg=1.4696; conf=0.823; gate_relaxed=False
+VO2,139,1.3316,,auto_ml_correction_v1,auto ekleme; mp=mp-20593; raw_bg=0.0000; pred_bg=1.3316; conf=0.822; gate_relaxed=False
+VOF,14,1.6202,,auto_ml_correction_v1,auto ekleme; mp=mp-753622; raw_bg=0.0000; pred_bg=1.6202; conf=0.760; gate_relaxed=False
+VOF,92,1.5823,,auto_ml_correction_v1,auto ekleme; mp=mp-754589; raw_bg=0.0000; pred_bg=1.5823; conf=0.803; gate_relaxed=False
+VSbO4,109,0.5193,6.6983,mp_api_filtered_advanced,api_filter method=GGA+U; run_type=GGA+U; is_hubbard=True; mp=mp-29146; score=2.680
+YCo4(CuO4)3,204,0.8202,,auto_ml_correction_v1,auto ekleme; mp=mp-1045774; raw_bg=0.0000; pred_bg=0.8202; conf=0.835; gate_relaxed=True
+YFe4(CuO4)3,204,0.8874,,auto_ml_correction_v1,auto ekleme; mp=mp-1045770; raw_bg=0.0000; pred_bg=0.8874; conf=0.829; gate_relaxed=True
+Zn(FeO2)2,8,1.7812,,auto_ml_correction_v1,auto ekleme; mp=mp-531053; raw_bg=0.0000; pred_bg=1.7812; conf=0.771; gate_relaxed=False
+Zn(FeO2)2,166,1.6753,,auto_ml_correction_v1,auto ekleme; mp=mp-1388646; raw_bg=0.0000; pred_bg=1.6753; conf=0.763; gate_relaxed=False
+ZnFe4NiO8,160,1.6957,,auto_ml_correction_v1,auto ekleme; mp=mp-1215703; raw_bg=0.0000; pred_bg=1.6957; conf=0.757; gate_relaxed=False
+ZnFe4NiO8,216,1.4922,,auto_ml_correction_v1,auto ekleme; mp=mp-1215616; raw_bg=0.0000; pred_bg=1.4922; conf=0.756; gate_relaxed=False
+ZnFe5O8,216,1.6069,,auto_ml_correction_v1,auto ekleme; mp=mp-35033; raw_bg=0.0000; pred_bg=1.6069; conf=0.774; gate_relaxed=False
